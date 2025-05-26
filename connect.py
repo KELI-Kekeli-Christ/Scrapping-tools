@@ -10,8 +10,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 # --- CONFIGURATION ---
 EXCEL_FILE = "liens.xlsx"
-LINKEDIN_EMAIL = "hisciences331@gmail.com"
-LINKEDIN_PASSWORD = "58590303#christ972"
+LINKEDIN_EMAIL = ""
+LINKEDIN_PASSWORD = ""
 echecs=0
 success=0
 # --- SETUP SELENIUM ---
